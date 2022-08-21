@@ -1,2 +1,2 @@
 # Julia-101
-Learning Julia for the firstt time.
+Learning Julia for the first time.
